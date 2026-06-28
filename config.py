@@ -62,7 +62,7 @@ X_HANDLE = "VirangJhaveri"
 
 # --- models ---
 # Primary: capacity for free restructure + invent angle. Lighter A/B: gemma-2-2b-it.
-BASE_MODEL = "mlx-community/Qwen3.5-2B-MLX-4bit"
+BASE_MODEL = "mlx-community/Qwen2.5-3B-Instruct-4bit"
 BASE_MODEL_ALT = "mlx-community/gemma-2-2b-it-4bit"
 
 # Adapter that inference (studio/API/CLI) loads by default. Single source of
